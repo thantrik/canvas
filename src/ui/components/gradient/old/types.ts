@@ -9,8 +9,3 @@ export enum Position {
   TOP = "top",
   BOTTOM = "bottom",
 }
-
-export interface StopPosition {
-  position: number;
-  color: string;
-}
