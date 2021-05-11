@@ -14,7 +14,7 @@
     "@types/styled-components": "^5.1.0",
     "fabric": "^3.6.3",
     "install": "^0.13.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "metro4": "^4.3.8",
     "metro4-react": "^0.1.4",
     "react": "^16.13.1",
